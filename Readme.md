@@ -44,20 +44,20 @@ https://www.hpc.dtu.dk/?page_id=862
 https://alacritty.org/
 
 # man pages online:
-https://www.man7.org/linux/man-pages/index.html
-https://linux.die.net/man/
+* https://www.man7.org/linux/man-pages/index.html
+* https://linux.die.net/man/
 
 
 
-Access to HPC
+# Access to HPC
 https://www.hpc.dtu.dk/?page_id=2501 
 
-File transfer to HPC: 
+# File transfer to HPC: 
 https://www.hpc.dtu.dk/?page_id=4377 
 
-Git:
+# Git:
 DTU gitlab
-https://www.gbar.dtu.dk/index.php/faq/94-gitlab 
+* https://www.gbar.dtu.dk/index.php/faq/94-gitlab 
 
 public github
-https://github.com/ 
+* https://github.com/ 
