@@ -19,8 +19,9 @@ Windows Terminal:
 https://aka.ms/terminal
 
 Optional: Set up git bash in Windows Terminal (blog post)
-https://medium.com/@techpreacher/using-git-bash-with-the-microsoft-terminal-bd1f71fa17a1
-https://www.practicaldatascience.org/notebooks/PDS_not_yet_in_coursera/00_setup_env/setup_commandline_windows.html
+* https://medium.com/@techpreacher/using-git-bash-with-the-microsoft-terminal-bd1f71fa17a1
+or
+* https://www.practicaldatascience.org/notebooks/PDS_not_yet_in_coursera/00_setup_env/setup_commandline_windows.html
 
 
 Windows Subsystem for Linux with Ubuntu LTS  (may require admin rights, you can wait until you need it)
