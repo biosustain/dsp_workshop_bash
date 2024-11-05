@@ -5,6 +5,11 @@ folders contain material for the interactive part.
 # Links
 The minimum requrement to follow the workshop is to install git bash for windows users, there are no initial requirements for mac users.
 
+direct link to this file:
+```
+https://raw.githubusercontent.com/biosustain/dsp_workshop_bash/refs/heads/main/Readme.md
+```
+
 ## Windows links
 
 Git Bash:
